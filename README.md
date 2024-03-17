@@ -13,11 +13,11 @@ Statistics Display: Admin users can view task overview and user statistics.
 
 Installation: -Clone the repository to your local machine:
 
-  git clone https://github.com/your-username/task-management-system.git
+  git clone https://github.com/PedroCPaez/finalCapstone)
 
 -Navigate to the project directory and run the main code:
 
-  cd task-management-system
+  cd finalCapstone
 
 -Install the required dependencies:
 
