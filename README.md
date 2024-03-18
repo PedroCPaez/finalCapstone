@@ -13,25 +13,27 @@ This task management system is a Python program designed to help users manage ta
 
 ## Installation: 
 -Clone the repository to your local machine:
-  git clone https://github.com/PedroCPaez/finalCapstone)
+    git clone https://github.com/PedroCPaez/finalCapstone)
   
 -Install the required dependencies:
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   
-    We are only importing:
-    import os
-    from datetime import datetime, date
-    from tabulate import tabulate
+  We are only importing:
+  import os
+  from datetime import datetime, date
+  from tabulate import tabulate
 
 -Navigate to the project directory and run the main code:
-  cd finalCapstone
+    cd finalCapstone
 
 ## Usage: 
--Run the program: python main.py
+-Run the program: 
+    python main.py
 
 -Follow the prompts to log in, add tasks, edit tasks, generate reports, or view statistics.
 
-Please see some images of running program:
+### Please see some images of running program:
+
 ![image](https://github.com/PedroCPaez/finalCapstone/assets/156691976/c54ea0ab-556a-49ec-99d5-48142cabf59f)
 
 ![image](https://github.com/PedroCPaez/finalCapstone/assets/156691976/0397232e-d9a3-44c5-a4dd-7c5988a200a8)
@@ -49,6 +51,6 @@ Please see some images of running program:
 ![image](https://github.com/PedroCPaez/finalCapstone/assets/156691976/38c3f6ec-c4b9-4752-b281-3a331ffdb791)
 
 
-Credits: 
+## Credits: 
 
 I would like to thank to every single one working at HyperionDev for the great job they do with all of us every single day!
