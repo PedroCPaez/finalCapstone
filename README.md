@@ -25,7 +25,9 @@ from datetime import datetime, date
 from tabulate import tabulate
 
 -Navigate to the project directory and run the main code:
-*   cd finalCapstone
+*     cd finalCapstone
+* 		cd task-management-system
+
 
 ## Usage: 
 -Run the program: 
