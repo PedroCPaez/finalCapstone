@@ -4,31 +4,32 @@ This task management system is a Python program designed to help users manage ta
 
 ## Features:
 
-- **User Authentication: Users can log in with their username and password.
-- **Task Management: Users can add tasks, view all tasks, and view their own tasks.
-- **Task Editing: Users can edit specific details of their tasks, such as username, due date, and completion status,
+- User Authentication: Users can log in with their username and password.
+- Task Management: Users can add tasks, view all tasks, and view their own tasks.
+- Task Editing: Users can edit specific details of their tasks, such as username, due date, and completion status,
   as long as the task has not been completed or has passed the due date.
-- **Reports Generation: Admin users can generate reports based on task data and user statistics.
-- **Statistics Display: Admin users can view task overview and user statistics.
+- Reports Generation: Admin users can generate reports based on task data and user statistics.
+- Statistics Display: Admin users can view task overview and user statistics.
 
 ## Installation: 
 -Clone the repository to your local machine:
-    git clone https://github.com/PedroCPaez/finalCapstone)
+*   git clone https://github.com/PedroCPaez/finalCapstone)
   
 -Install the required dependencies:
-    pip install -r requirements.txt
+*   pip install -r requirements.txt
   
-  We are only importing:
-  import os
-  from datetime import datetime, date
-  from tabulate import tabulate
+We are only importing:
+
+import os
+from datetime import datetime, date
+from tabulate import tabulate
 
 -Navigate to the project directory and run the main code:
-    cd finalCapstone
+*   cd finalCapstone
 
 ## Usage: 
 -Run the program: 
-    python main.py
+*   python main.py
 
 -Follow the prompts to log in, add tasks, edit tasks, generate reports, or view statistics.
 
