@@ -13,10 +13,10 @@ This task management system is a Python program designed to help users manage ta
 
 ## Installation: 
 -Clone the repository to your local machine:
-*   git clone https://github.com/PedroCPaez/finalCapstone)
+*     git clone https://github.com/PedroCPaez/finalCapstone)
   
 -Install the required dependencies:
-*   pip install -r requirements.txt
+*     pip install -r requirements.txt
   
 We are only importing:
 
@@ -26,12 +26,11 @@ from tabulate import tabulate
 
 -Navigate to the project directory and run the main code:
 *     cd finalCapstone
-* 		cd task-management-system
 
 
 ## Usage: 
 -Run the program: 
-*   python main.py
+*     python main.py
 
 -Follow the prompts to log in, add tasks, edit tasks, generate reports, or view statistics.
 
